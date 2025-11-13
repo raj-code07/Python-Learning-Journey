@@ -1,3 +1,5 @@
+# Python Learning Journey 🚀
+
 Python Mini Projects
 This repository contains my beginner-level Python projects created while learning through the Be10x Python using AI course.
 Each project focuses on basic Python concepts and problem-solving.

@@ -1,0 +1,6 @@
+Day 1 Progress:
+- Completed Python basic functions.
+- Built Daily Task Organizer project.
+- Built Simple Calculator project.
+- Created GitHub repo and README.
+- Started Operation Comeback Journey.

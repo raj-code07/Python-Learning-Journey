@@ -1,0 +1,6 @@
+Day 2 Progress :
+- Completed NVIDIA course: Introduction to Transformer-based Natural Language Processing.
+- Earned the NVIDIA DLI Certificate.
+- Explored Oracle DBRU updates.
+- Reviewed GitHub learning (branches, commits).
+- Planned GFG learning roadmap.

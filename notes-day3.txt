@@ -1,0 +1,5 @@
+Day 3 Progress:
+- Completed Python Day 16 lecture.
+- Solved basic Python questions.
+- Started DSA (Arrays basics + 2 practice problems).
+- Continued Operation Comeback discipline.

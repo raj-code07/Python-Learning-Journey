@@ -1,0 +1,5 @@
+Day 4 Progress:
+- Python Day 17 completed.
+- Practiced 6 questions.
+- DSA Day 2: Move all zeros to end.
+- Solved problems on GFG.

@@ -1,0 +1,9 @@
+Marks=44
+if(Marks>90):
+    print("A+")
+elif(Marks>80):
+    print("B")
+elif(Marks>40):
+    print("c")
+else:
+    print("fail")

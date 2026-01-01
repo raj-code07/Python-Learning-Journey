@@ -1,0 +1,5 @@
+Day 45 Progress:
+- Completed DSA Day 43
+- Topic: Count pairs with given sum
+- Practiced hashing based problem
+- Code uploaded to GitHub

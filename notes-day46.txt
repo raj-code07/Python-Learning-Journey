@@ -1,0 +1,5 @@
+Day 46 Progress:
+- Completed DSA Day 44
+- Topic: Find All Triplets with Zero Sum
+- Practiced hashing based problem
+- Code uploaded to GitHub

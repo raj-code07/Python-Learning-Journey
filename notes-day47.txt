@@ -1,0 +1,5 @@
+Day 47 Progress:
+- Completed DSA Day 45
+- Topic: Intersection of Two Arrays
+- Practiced hashing-based array problem
+- Code uploaded to GitHub

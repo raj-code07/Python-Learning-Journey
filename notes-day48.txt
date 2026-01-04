@@ -1,0 +1,5 @@
+Day 48 Progress:
+- Completed DSA Day 46
+- Topic: Union of Two Arrays (Hashing)
+- Practiced set-based approach and edge cases
+- Code uploaded to GitHub

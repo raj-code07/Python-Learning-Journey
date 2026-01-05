@@ -1,0 +1,5 @@
+Day 49 Progress:
+- Completed DSA Day 47
+- Topic: Longest Consecutive Subsequence (Hashing)
+- Used HashSet for optimal O(n) solution
+- Code uploaded to GitHub

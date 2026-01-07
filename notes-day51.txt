@@ -1,0 +1,5 @@
+Day 51 Progress:
+- Completed DSA Day 49
+- Topic: Count Subarrays having Sum K
+- Used prefix sum and hashing approach
+- Code uploaded to GitHub
